@@ -2,7 +2,6 @@ import Image from 'next/image'
 import React from 'react'
 import { IoBrowsersOutline, IoCalculator, IoLogoReact } from 'react-icons/io5'
 import { SidebarMenuItem } from './SidebarMenuItem'
-import path from 'path'
 
 const menuItems = [
   {
